@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 
 ## Live links (replace with your own)
-- Leaflet Map https://mdgaines.github.io/leaflet-storymap-nr491/
+- Leaflet Map https://mdgaines.github.io/leaflet-storymap-nr491/](https://je-garcia.github.io/GarciaFinalProject/)
 
 ## Create Your Own
 - Follow instructions in storymap.ipynb
